@@ -1,2 +1,3 @@
-# PDS-Preno-dat-pocitacove-site-a-protokoly
-Magisterské studium
+# [PDS]
+## 2021/22 - 4. semestr magisterského studia
+### Projekt - 8/25 bodů
